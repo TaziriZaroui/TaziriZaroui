@@ -17,6 +17,17 @@ I focus on building **data-centric projects**, applying solid software engineeri
 Alongside hands-on projects, I actively follow and create **structured technical courses** to strengthen my foundations in data systems, analytics workflows, and modern development practices.
 
 ---
+## My github states 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&hide_border=true&show_icons=true&icon_color=FFA500&title_color=FF6F00) 
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
+
+
 
 ## Current Focus
 
@@ -60,15 +71,6 @@ Alongside hands-on projects, I actively follow and create **structured technical
 ## Contact
 
 - GitHub: https://github.com/TaziriZaroui
-## My github states 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&hide_border=true&show_icons=true&icon_color=FFA500&title_color=FF6F00)
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TaziriZaroui&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
 
 
 <p align="center">
