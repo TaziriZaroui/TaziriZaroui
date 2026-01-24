@@ -28,6 +28,12 @@ Alongside hands-on projects, I actively follow and create **structured technical
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TaziriZaroui&label=Profile%20views&color=ff6f00&style=flat" />
+</p>
+
+
+
 
 ## Current Focus
 
