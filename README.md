@@ -74,5 +74,5 @@ Alongside hands-on projects, I actively follow and create **structured technical
 
 
 <p align="center">
-Focused on building skills, not hype.
+<b>Focused on building skills, not hype.</b>
 </p>
