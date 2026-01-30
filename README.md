@@ -40,6 +40,8 @@ Alongside hands-on projects, I actively follow and create **structured technical
 ## Tech Stack
 
 **Languages**
+
+
 -![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
