@@ -24,9 +24,17 @@ Alongside hands-on projects, I actively follow and create **structured technical
   <img src="https://github-readme-stats.vercel.app/api?username=MAHROUGHIBA&theme=dark&show_icons=true" />
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAHROUGHIBA&theme=github-compact&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&hide_border=true)
+
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHROUGHIBA&layout=compact&theme=dark&hide_border=true)
+
+
+  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAHROUGHIBA&theme=dark)
+
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MAHROUGHIBA&repo=TON_REPO&theme=dark)](https://github.com/TON_USERNAME/TON_REPO)
+  
 
 
 
