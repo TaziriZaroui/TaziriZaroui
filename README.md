@@ -65,29 +65,11 @@ Alongside projects, I create and follow **structured technical courses** to stre
 
 ---
 
-## 🌟 Interesting Facts
 
-- Built **data pipelines** for automated report generation  
-- Created **interactive dashboards** using Python & SQL  
-- Always exploring new technologies: **AI, ML, and full-stack web dev**  
-- Contributed to **open-source projects** and GitHub communities  
-
----
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=TaziriZaroui&repo=Repo1&theme=dark)](https://github.com/TaziriZaroui/Repo1)
-  [![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=TaziriZaroui&repo=Repo2&theme=dark)](https://github.com/TaziriZaroui/Repo2)
-  [![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=TaziriZaroui&repo=Repo3&theme=dark)](https://github.com/TaziriZaroui/Repo3)
-</p>
-
----
-
-## 📫 Contact
+##  Contact
 
 - GitHub: [https://github.com/TaziriZaroui](https://github.com/TaziriZaroui)
 
 <p align="center">
-<b>Focused on building skills, not hype.</b>
+<b>Focused on building skills </b>
 </p>
