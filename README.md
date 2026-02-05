@@ -9,7 +9,7 @@ Software Engineering student, passionate about Data & AI
 
 ---
 
-## 📝 Profile
+## Profile
 
 Second-year Software Engineering student specializing in **Data Engineering** and **Artificial Intelligence**.  
 I focus on building **data-centric projects**, applying software engineering principles to data processing, analysis, and AI pipelines.
@@ -18,14 +18,19 @@ Alongside projects, I create and follow **structured technical courses** to stre
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Contribution Chart](https://ghchart.rshah.org/TaziriZaroui)
 
 
+
+![Repo Stars](https://img.shields.io/github/stars/TaziriZaroui/Repo1?style=for-the-badge)
+
+![Repo Forks](https://img.shields.io/github/forks/TaziriZaroui/Repo1?style=for-the-badge)
+
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,7 +42,7 @@ Alongside projects, I create and follow **structured technical courses** to stre
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📊 Data & Analysis Tools
+###  Data & Analysis Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -46,7 +51,7 @@ Alongside projects, I create and follow **structured technical courses** to stre
 
 ---
 
-## 🚀 Projects & Highlights
+##  Projects & Highlights
 
 - Data analysis and visualization projects  
 - Educational repositories and technical course materials  
