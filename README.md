@@ -20,17 +20,8 @@ Alongside projects, I create and follow **structured technical courses** to stre
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  ![GitHub Contribution Chart](https://ghchart.rshah.org/TaziriZaroui)
-</p>
+![GitHub Contribution Chart](https://ghchart.rshah.org/TaziriZaroui)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
-</p>
 
 ---
 
