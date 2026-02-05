@@ -11,45 +11,42 @@ Software Engineering student, passionate about Data & AI
 
 ## 📝 Profile
 
-Second-year Software Engineering student with a current specialization in **Data Engineering** and **Artificial Intelligence**.  
-I focus on building **data-centric projects**, applying solid software engineering principles to data processing, analysis, and early-stage AI systems.
+Second-year Software Engineering student specializing in **Data Engineering** and **Artificial Intelligence**.  
+I focus on building **data-centric projects**, applying software engineering principles to data processing, analysis, and AI pipelines.
 
-Alongside hands-on projects, I actively follow and create **structured technical courses** to strengthen my foundations in data systems, analytics workflows, and modern development practices.
+Alongside projects, I create and follow **structured technical courses** to strengthen my foundations in data systems, analytics workflows, and modern development practices.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   ![GitHub Contribution Chart](https://ghchart.rshah.org/TaziriZaroui)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaziriZaroui&theme=dark&show_icons=true&count_private=true" />
 </p>
 
----
-
-## 🎯 Current Focus
-
-- Data Engineering fundamentals  
-- Python & SQL for data analysis  
-- AI concepts and early experimentation  
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaziriZaroui&layout=compact&theme=dark&hide_border=true)
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Data Tools
+### 📊 Data & Analysis Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -58,22 +55,39 @@ Alongside hands-on projects, I actively follow and create **structured technical
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects & Highlights
 
 - Data analysis and visualization projects  
 - Educational repositories and technical course materials  
+- Personal AI experiments and mini projects  
 
 > Selected projects are available in my public repositories.
 
 ---
 
-## 📈 Workflow Diagram
+## 🌟 Interesting Facts
 
-```mermaid
-graph TD
-    A[GitHub Repo] --> B[Main Branch]
-    B --> C[Feature Branches]
-    B --> D[Bugfix Branches]
-    C --> E[Pull Requests]
-    D --> E
-    E --> F[Merge into Main]
+- Built **data pipelines** for automated report generation  
+- Created **interactive dashboards** using Python & SQL  
+- Always exploring new technologies: **AI, ML, and full-stack web dev**  
+- Contributed to **open-source projects** and GitHub communities  
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=TaziriZaroui&repo=Repo1&theme=dark)](https://github.com/TaziriZaroui/Repo1)
+  [![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=TaziriZaroui&repo=Repo2&theme=dark)](https://github.com/TaziriZaroui/Repo2)
+  [![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=TaziriZaroui&repo=Repo3&theme=dark)](https://github.com/TaziriZaroui/Repo3)
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: [https://github.com/TaziriZaroui](https://github.com/TaziriZaroui)
+
+<p align="center">
+<b>Focused on building skills, not hype.</b>
+</p>
