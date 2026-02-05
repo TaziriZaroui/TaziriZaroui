@@ -21,9 +21,8 @@ Alongside hands-on projects, I actively follow and create **structured technical
 <img src="https://github-readme-stats.vercel.app/api?username=MAHROUGHIBA&theme=dark&show_icons=true&count_private=true" />
 
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHROUGHIBA&layout=compact&theme=dark&hide_border=true)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHROUGHIBA&layout=compact&theme=dark&hide_border=true)
+
 
 
 
